@@ -47,14 +47,11 @@ Ask a question: What is machine learning?
 Answer: Machine learning is a subset of AI.
 
 📝 Project Structure
-bash
-Copy
-Edit
 faq-chatbot/
 │
-├── faq_chatbot.py         # Main chatbot logic
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+├── faq_chatbot.py        
+├── requirements.txt      
+└── README.md             
 
 💡 Future Improvements
 Web interface using Flask or Streamlit
